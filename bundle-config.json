@@ -1,24 +1,22 @@
 {
-  "GAME_INFO_CONFIG": {
+  "gameInfoConfig": {
     "gameIcon": "https://csg-vn-h5.funzap.io/0.0.3/TemplateData/denglu_logo_chunsanguo_sea.png",
     "gameName": "Origami SamKoK",
     "gameProviderLogo": "https://csg-vn-h5.funzap.io/0.0.3/TemplateData/denglu_logo_chunsanguo_sea.png"
   },
-  "BUNDLE_CONFIG": [
+  "bundleConfig": [
     {
-      "originUrl1": "http://127.0.0.1:5500/Build/WasmT2.wasm",
       "fileName": "WasmT2.wasm",
       "zipUrl": "https://raw.githubusercontent.com/hanzoow/upload1/refs/heads/main/WasmT2.wasm1.zip"
     },
     {
-      "originUrl1": "http://127.0.0.1:5500/Build/WasmT2.data",
       "fileName": "WasmT2.data",
       "zipUrl": "https://raw.githubusercontent.com/hanzoow/upload1/refs/heads/main/WasmT2.data1.zip"
     }
   ],
-  "DB_CONFIG": {
+  "dbConfig": {
     "dbName": "UnityGameCache",
     "storeName": "BundleCache"
   },
-  "BUNDLE_VERSION": 1
+  "bundleVersion": 1
 }

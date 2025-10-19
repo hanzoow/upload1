@@ -19,5 +19,6 @@
   "DB_CONFIG": {
     "dbName": "UnityGameCache",
     "storeName": "BundleCache"
-  }
+  },
+  "BUNDLE_VERSION": 1
 }
